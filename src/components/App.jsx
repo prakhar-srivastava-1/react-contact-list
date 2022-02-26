@@ -6,7 +6,11 @@ function App() {
   return (
     <div>
       <h1 className="heading">My Contacts</h1>
-      <Card />
+      <Card
+        name="Elon Musk"
+        img="https://i.imgur.com/CNhZzYY.jpeg"
+        phone="+123 456 789"
+        email="elon@spacex.com" />
     </div>
   );
 }
