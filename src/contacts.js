@@ -14,10 +14,12 @@ const contacts = [
     email: "bill@outlook.com"
   },
   {
-    name: "Conor McGregor",
+    name: "Conor",
     imgURL:
       "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Conor_McGregor_2018.jpg/330px-Conor_McGregor_2018.jpg",
     phone: "+918 372 574",
     email: "conor@ufc.com"
   }
 ];
+
+export default contacts;
