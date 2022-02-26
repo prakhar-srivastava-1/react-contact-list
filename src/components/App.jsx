@@ -6,9 +6,10 @@ function App() {
       <h1 className="heading">My Contacts</h1>
       <div className="card">
         <div className="top">
-          <h2>Elon Musk</h2>
+          <h2 className="name">Elon Musk</h2>
           <img
-            src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/330px-Elon_Musk_Royal_Society_%28crop2%29.jpg"
+            className="circle-img"
+            src="https://i.imgur.com/CNhZzYY.jpeg"
             alt="avatar_img"
           />
         </div>
