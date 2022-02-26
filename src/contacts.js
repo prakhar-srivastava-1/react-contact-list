@@ -9,14 +9,14 @@ const contacts = [
   {
     name: "Bill Gates",
     imgURL:
-      "https://www.gatesfoundation.org/-/media/gfo/3about/3people/ga311881_bill_gates.jpg?w=570&hash=97486F2A5A52392B243716779D01AAD9",
+      "https://www.fi.edu/sites/default/files/styles/person_thumb/public/Laureates_BowerBusinessAward_2010_OldSite_WilliamGates_wgates.jpg?itok=v2Nt1QEm",
     phone: "+987 654 321",
     email: "bill@outlook.com"
   },
   {
-    name: "Conor",
+    name: "Conor MG",
     imgURL:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Conor_McGregor_2018.jpg/330px-Conor_McGregor_2018.jpg",
+      "https://play-lh.googleusercontent.com/YybPFVXAnbym0crgrfVZYle6qK-_f7xZ6fC-5VRNcVaqSoOQ5A6uDm0AscOTNLbMsm4=s200",
     phone: "+918 372 574",
     email: "conor@ufc.com"
   }
