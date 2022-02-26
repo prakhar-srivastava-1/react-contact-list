@@ -16,7 +16,7 @@ const contacts = [
   {
     name: "Conor MG",
     imgURL:
-      "https://play-lh.googleusercontent.com/YybPFVXAnbym0crgrfVZYle6qK-_f7xZ6fC-5VRNcVaqSoOQ5A6uDm0AscOTNLbMsm4=s200",
+      "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/38/2016/04/19214300/Getty_041916_McGregor-200x200.jpg",
     phone: "+918 372 574",
     email: "conor@ufc.com"
   }
