@@ -1,5 +1,6 @@
 const contacts = [
   {
+    id: 1,
     name: "Elon Musk",
     imgURL:
       "https://i.imgur.com/CNhZzYY.jpeg",
@@ -7,6 +8,7 @@ const contacts = [
     email: "elon@spacex.com"
   },
   {
+    id: 2,
     name: "Bill Gates",
     imgURL:
       "https://www.fi.edu/sites/default/files/styles/person_thumb/public/Laureates_BowerBusinessAward_2010_OldSite_WilliamGates_wgates.jpg?itok=v2Nt1QEm",
@@ -14,6 +16,7 @@ const contacts = [
     email: "bill@outlook.com"
   },
   {
+    id: 3,
     name: "Conor MG",
     imgURL:
       "https://dehayf5mhw1h7.cloudfront.net/wp-content/uploads/sites/38/2016/04/19214300/Getty_041916_McGregor-200x200.jpg",
