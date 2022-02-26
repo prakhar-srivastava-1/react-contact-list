@@ -2,14 +2,14 @@ const contacts = [
   {
     name: "Elon Musk",
     imgURL:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Elon_Musk_Royal_Society_%28crop2%29.jpg/330px-Elon_Musk_Royal_Society_%28crop2%29.jpg",
+      "https://i.imgur.com/CNhZzYY.jpeg",
     phone: "+123 456 789",
     email: "elon@spacex.com"
   },
   {
     name: "Bill Gates",
     imgURL:
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Bill_Gates_2017_%28cropped%29.jpg/330px-Bill_Gates_2017_%28cropped%29.jpg",
+      "https://www.gatesfoundation.org/-/media/gfo/3about/3people/ga311881_bill_gates.jpg?w=570&hash=97486F2A5A52392B243716779D01AAD9",
     phone: "+987 654 321",
     email: "bill@outlook.com"
   },
