@@ -4,16 +4,16 @@ function Card(props) {
   return(
     <div className="card">
       <div className="top">
-        <h2 className="name">Elon Musk</h2>
+        <h2 className="name">{props.name}</h2>
         <img
           className="circle-img"
-          src="https://i.imgur.com/CNhZzYY.jpeg"
+          src={props.img}
           alt="avatar_img"
         />
       </div>
       <div className="bottom">
-        <p>+123 456 789</p>
-        <p>elon@spacex.com</p>
+        <p>{props.phone}</p>
+        <p>{props.email}</p>
       </div>
     </div>
   );
